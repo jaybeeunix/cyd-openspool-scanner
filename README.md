@@ -83,6 +83,8 @@ Tags written by this device follow the standard [OpenSpool 1.0 specification](ht
 
 ## Assembly 
 
+Checkout [my case](https://space.snapmaker.com/en/model/36155-openspool-cyd-scanner) on Snapmaker Space!
+
 Complete handheld Bill of Materials, with Amazon links:
 1. ["CYD" ESP32-2432S028](https://amzn.to/4hlUx3n)
 2. [PN532 NFC Module](https://amzn.to/4xKQxzx)
